@@ -1,0 +1,189 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/diuretics-500mg---primary.py
+inputModule3:
+  class: File
+  path: python/diuretics-prestim---primary.py
+inputModule4:
+  class: File
+  path: python/diuretics-cobetaloc---primary.py
+inputModule5:
+  class: File
+  path: python/diuretics-goldshield---primary.py
+inputModule6:
+  class: File
+  path: python/zestoretic-diuretics---primary.py
+inputModule7:
+  class: File
+  path: python/diuretics-cyclopenthiazide---primary.py
+inputModule8:
+  class: File
+  path: python/diuretics-025mg---primary.py
+inputModule9:
+  class: File
+  path: python/diuretics-carace---primary.py
+inputModule10:
+  class: File
+  path: python/diuretics-tablet---primary.py
+inputModule11:
+  class: File
+  path: python/diuretics-coaprovel---primary.py
+inputModule12:
+  class: File
+  path: python/diuretics-250mg---primary.py
+inputModule13:
+  class: File
+  path: python/diuretics-squibb---primary.py
+inputModule14:
+  class: File
+  path: python/diuretics-perindopril---primary.py
+inputModule15:
+  class: File
+  path: python/diuretics-metolazone---primary.py
+inputModule16:
+  class: File
+  path: python/diuretics-chlorothiazide---primary.py
+inputModule17:
+  class: File
+  path: python/geigy-diuretics---primary.py
+inputModule18:
+  class: File
+  path: python/diuretics-pfizer---primary.py
+inputModule19:
+  class: File
+  path: python/diuretics-solution---primary.py
+inputModule20:
+  class: File
+  path: python/diuretics-kalspare---primary.py
+inputModule21:
+  class: File
+  path: python/diuretics-200mg---primary.py
+inputModule22:
+  class: File
+  path: python/diuretics-dominion---primary.py
+inputModule23:
+  class: File
+  path: python/corgaretic-diuretics---primary.py
+inputModule24:
+  class: File
+  path: python/moduretic-diuretics---primary.py
+inputModule25:
+  class: File
+  path: python/diuretics-olmetec---primary.py
+inputModule26:
+  class: File
+  path: python/diuretics-capozide---primary.py
+inputModule27:
+  class: File
+  path: python/diuretics-neonaclex---primary.py
+inputModule28:
+  class: File
+  path: python/diuretics-pharm---primary.py
+inputModule29:
+  class: File
+  path: python/diuretics-astrazenec---primary.py
+inputModule30:
+  class: File
+  path: python/diuretics-aprinox---primary.py
+inputModule31:
+  class: File
+  path: python/diuretics-abbott---primary.py
+inputModule32:
+  class: File
+  path: python/diuretics-modified---primary.py
+inputModule33:
+  class: File
+  path: python/diuretics-navidrex---primary.py
+inputModule34:
+  class: File
+  path: python/diuretics-tenchlor---primary.py
+inputModule35:
+  class: File
+  path: python/diuretics-galen---primary.py
+inputModule36:
+  class: File
+  path: python/diuretics-coflumactone---primary.py
+inputModule37:
+  class: File
+  path: python/diuretics-cozidocapt---primary.py
+inputModule38:
+  class: File
+  path: python/diuretics-spiroco---primary.py
+inputModule39:
+  class: File
+  path: python/diuretics-burgess---primary.py
+inputModule40:
+  class: File
+  path: python/diuretics-novartis---primary.py
+inputModule41:
+  class: File
+  path: python/diuretics-cozaarcomp---primary.py
+inputModule42:
+  class: File
+  path: python/diuretics-natrilix---primary.py
+inputModule43:
+  class: File
+  path: python/diuretics-genus---primary.py
+inputModule44:
+  class: File
+  path: python/diuretics-irbesartan---primary.py
+inputModule45:
+  class: File
+  path: python/diuretics-chlortalidone---primary.py
+inputModule46:
+  class: File
+  path: python/diuretics-telmisartan---primary.py
+inputModule47:
+  class: File
+  path: python/diuretics-prolonged---primary.py
+inputModule48:
+  class: File
+  path: python/diuretics-berkozide---primary.py
+inputModule49:
+  class: File
+  path: python/diuretics-coated---primary.py
+inputModule50:
+  class: File
+  path: python/diuretics-hydroflumethiazide---primary.py
+inputModule51:
+  class: File
+  path: python/diuretics-micardi---primary.py
+inputModule52:
+  class: File
+  path: python/diuretics-hillcross---primary.py
+inputModule53:
+  class: File
+  path: python/diuretics-ashbourne---primary.py
+inputModule54:
+  class: File
+  path: python/hydrosaluric-diuretics---primary.py
+inputModule55:
+  class: File
+  path: python/totaretic-diuretics---primary.py
+inputModule56:
+  class: File
+  path: python/diuretics-150mg---primary.py
+inputModule57:
+  class: File
+  path: python/diuretics-arginine---primary.py
+inputModule58:
+  class: File
+  path: python/diuretics-coversyl---primary.py
+inputModule59:
+  class: File
+  path: python/diuretics-tartrate---primary.py
+inputModule60:
+  class: File
+  path: python/diuretics-benzthiazide---primary.py
+inputModule61:
+  class: File
+  path: python/diuretics-esidrex---primary.py
+inputModule62:
+  class: File
+  path: python/diuretics-alliance---primary.py
+inputModule63:
+  class: File
+  path: python/output-cases.py
